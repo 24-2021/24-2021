@@ -13,13 +13,14 @@
 
 ---
 
-🥊 I am  a member of the Red Team. I have a passion for Red Team attack and defense, intranet penetration, shellcode immunity, social worker phishing, physical near source, and security development. 
+🥊 I am  a member of the Red Team. I have a passion for Red Team attack and defense, intranet penetration, shellcode immunity, social worker phishing, physical near source, and security development and Vibe codeing. 
 
 
 
 ## 💖love
 
 ![image-20260115091054849](./img/1.JPG)
+
 
 
 
