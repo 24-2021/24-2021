@@ -7,7 +7,7 @@
   &nbsp;
     <img src="https://img.shields.io/badge/Team-24team-EF476F?style=flat-square&logo=team&logoColor=white" alt="24team"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Love-Rock-D32F2F?style=flat-square&logo=team&logoColor=white" alt="Sec Vibe Coding"/>
+  <img src="https://img.shields.io/badge/Ai-Sec Vibe Coding-D32F2F?style=flat-square&logo=team&logoColor=white" alt="Sec Vibe Coding"/>
   &nbsp;
 
 
@@ -20,6 +20,7 @@
 ## 💖love
 
 ![image-20260115091054849](./img/1.JPG)
+
 
 
 
