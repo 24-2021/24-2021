@@ -44,12 +44,12 @@ Focus:
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=24-2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="24's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24-2021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=24-2021&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=24-2021&theme=tokyonight" alt="Repos Per Language" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24-2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24-2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
 
 </div>
@@ -81,14 +81,6 @@ Focus:
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24-2021&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
-
----
-
 ### 💖 Love
 
 <div align="center">
@@ -101,6 +93,6 @@ Focus:
 
 <br/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=2FA8D3&center=true&vCenter=true&width=600&lines=Talk+is+cheap.+Show+me+the+code.;Offense+informs+defense%2C+defense+informs+offense.)](https://git.io/typing-svg)
 
 </div>
