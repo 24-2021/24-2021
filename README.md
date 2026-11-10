@@ -24,17 +24,18 @@
 ### 🥊 About Me
 
 ```yaml
-Operator: 24
-Team: 24team
-Motto: "Speak less and do more！"
-Focus:
-  - Red Team Attack & Defense (红队攻防)
-  - Intranet Penetration (内网横向)
-  - Shellcode Immunity & Evasion (免杀技术)
-  - Social Engineering & Phishing (社工钓鱼)
-  - Physical Near-Source Attacks (近源渗透)
-  - Security Tooling Development (安全工具研发)
-  - AI Security & Sec Vibe Coding (AI安全与智能体研发)
+Operator : 24
+Team     : 24team
+Motto    : "Speak less and do more!"
+Now      : Code Audit             # 代码审计
+Focus    :
+  - Red Team Attack & Defense      # 红队攻防
+  - Intranet Penetration           # 内网横向
+  - Shellcode Immunity & Evasion   # 免杀技术
+  - Social Engineering & Phishing  # 社工钓鱼
+  - Physical Near-Source Attacks   # 近源渗透
+  - Security Tooling Development   # 安全工具研发
+  - AI Security & Sec Vibe Coding  # AI安全与智能体研发
 ```
 
 ---
