@@ -56,6 +56,24 @@ Focus    :
 
 ---
 
+### 🛡️ CVE
+
+<div align="center">
+
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14004"><img src="https://img.shields.io/badge/CVE--2025--14004-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14004" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14005"><img src="https://img.shields.io/badge/CVE--2025--14005-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14005" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14006"><img src="https://img.shields.io/badge/CVE--2025--14006-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14006" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14007"><img src="https://img.shields.io/badge/CVE--2025--14007-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14007" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14008"><img src="https://img.shields.io/badge/CVE--2025--14008-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14008" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14011"><img src="https://img.shields.io/badge/CVE--2025--14011-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14011" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14012"><img src="https://img.shields.io/badge/CVE--2025--14012-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14012" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2025-14013"><img src="https://img.shields.io/badge/CVE--2025--14013-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2025-14013" /></a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2026-1107"><img src="https://img.shields.io/badge/CVE--2026--1107-5C2D91?style=for-the-badge&logo=shield&logoColor=white" alt="CVE-2026-1107" /></a>
+
+</div>
+
+---
+
 ### 📊 GitHub Streak Activity
 
 <div align="center">
