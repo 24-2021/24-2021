@@ -39,18 +39,18 @@ Focus    :
 
 ---
 
-### 📌 Pinned Projects / 置顶开源项目
+### 📌 Pinned Projects
 
 <div align="center">
 
 | Project | Description | Tech | Stars | Forks |
 | :--- | :--- | :---: | :---: | :---: |
-| 🚀 **[fscan-POC](https://github.com/24-2021/fscan-POC)** | 强化 fscan 的漏扫 POC 库，红队武器库必备 | `POC / Go` | ![Stars](https://img.shields.io/github/stars/24-2021/fscan-POC?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/fscan-POC?style=social) |
-| 🔍 **[Finger24](https://github.com/24-2021/Finger24)** | 基于已收集指纹库进行识别网站指纹的浏览器插件 | `JavaScript` | ![Stars](https://img.shields.io/github/stars/24-2021/Finger24?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/Finger24?style=social) |
-| 📱 **[24adbspy](https://github.com/24-2021/24adbspy)** | ADB 未授权批量检测与控制管理系统 | `JavaScript` | ![Stars](https://img.shields.io/github/stars/24-2021/24adbspy?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/24adbspy?style=social) |
-| 🌐 **[Proxy24](https://github.com/24-2021/Proxy24)** | 一个简单的代理浏览器插件，攻防调度便利 | `JavaScript` | ![Stars](https://img.shields.io/github/stars/24-2021/Proxy24?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/Proxy24?style=social) |
-| 💥 **[EXP-POC](https://github.com/24-2021/EXP-POC)** | 汇总平时写的一些高价值 POC & EXP 资产库 | `Python / Security` | ![Stars](https://img.shields.io/github/stars/24-2021/EXP-POC?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/EXP-POC?style=social) |
-| 🪓 **[BOF24](https://github.com/24-2021/BOF24)** | 实战攻防中用到的 Beacon Object Files (BOF) 集合 | `C / RedTeam` | ![Stars](https://img.shields.io/github/stars/24-2021/BOF24?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/BOF24?style=social) |
+| 🚀 **[fscan-POC](https://github.com/24-2021/fscan-POC)** | Enhanced vulnerability scanning POC arsenal for fscan | `POC / Go` | ![Stars](https://img.shields.io/github/stars/24-2021/fscan-POC?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/fscan-POC?style=social) |
+| 🔍 **[Finger24](https://github.com/24-2021/Finger24)** | Web fingerprinting browser extension with pre-built signatures | `JavaScript` | ![Stars](https://img.shields.io/github/stars/24-2021/Finger24?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/Finger24?style=social) |
+| 📱 **[24adbspy](https://github.com/24-2021/24adbspy)** | Unauthorized ADB batch detection & control management system | `JavaScript` | ![Stars](https://img.shields.io/github/stars/24-2021/24adbspy?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/24adbspy?style=social) |
+| 🌐 **[Proxy24](https://github.com/24-2021/Proxy24)** | Lightweight proxy switcher browser extension for offensive ops | `JavaScript` | ![Stars](https://img.shields.io/github/stars/24-2021/Proxy24?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/Proxy24?style=social) |
+| 💥 **[EXP-POC](https://github.com/24-2021/EXP-POC)** | High-value POC & EXP exploit repository | `Python / Security` | ![Stars](https://img.shields.io/github/stars/24-2021/EXP-POC?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/EXP-POC?style=social) |
+| 🪓 **[BOF24](https://github.com/24-2021/BOF24)** | Curated Beacon Object Files (BOF) collection for offensive security | `C / RedTeam` | ![Stars](https://img.shields.io/github/stars/24-2021/BOF24?style=social) | ![Forks](https://img.shields.io/github/forks/24-2021/BOF24?style=social) |
 
 </div>
 
