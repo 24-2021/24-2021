@@ -26,16 +26,15 @@
 ```yaml
 Operator : 24
 Team     : 24team
-Motto    : "Speak less and do more!"
-Now      : Code Audit             # 代码审计
+Now      : Code Audit
 Focus    :
-  - Red Team Attack & Defense      # 红队攻防
-  - Intranet Penetration           # 内网横向
-  - Shellcode Immunity & Evasion   # 免杀技术
-  - Social Engineering & Phishing  # 社工钓鱼
-  - Physical Near-Source Attacks   # 近源渗透
-  - Security Tooling Development   # 安全工具研发
-  - AI Security & Sec Vibe Coding  # AI安全与智能体研发
+  - Red Team Attack & Defense
+  - Intranet Penetration
+  - Shellcode Immunity & Evasion
+  - Social Engineering & Phishing
+  - Physical Near-Source Attacks
+  - Security Tooling Development
+  - AI Security & Sec Vibe Coding
 ```
 
 ---
