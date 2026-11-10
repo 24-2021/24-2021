@@ -25,14 +25,16 @@
 
 <div align="center">
 
-```yaml
-Identity : 24 @ 24team
-Mission  : Offensive Security & Vulnerability Research
-Arsenal  :
-  Operations     : [Red Team Assessment, Intranet Penetration, Physical Near-Source, Social Engineering]
-  Weaponization  : [Shellcode Evasion, Custom Exploit / POC, Offensive Tooling]
-  Frontier       : [AI Security & LLM Audit, Sec Vibe Coding / Autonomous Agent Dev]
-Motto    : "Offense informs defense; silence breeds precision."
+```bash
+root@redteam:~# ./whoami --verbose
+[+] Identity: 24 (24team)
+[+] Focus: Offensive Security & Vulnerability Research
+[+] Tooling:
+  ├── Operations    : Red Team, Intranet, Physical, Social
+  ├── Weaponization : Shellcode Evasion, Custom POC/EXP
+  └── Frontier      : AI Security, Sec Vibe Coding, Agent Dev
+[+] Motto: "Offense informs defense; silence breeds precision."
+[✔] status: ready
 ```
 
 </div>
