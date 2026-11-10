@@ -23,8 +23,6 @@
 
 ### 🥊 About Me
 
-<div align="center">
-
 ```bash
 root@redteam:~# ./whoami --verbose
 [+] Identity: 24 (24team)
@@ -36,8 +34,6 @@ root@redteam:~# ./whoami --verbose
 [+] Motto: "Offense informs defense; silence breeds precision."
 [✔] status: ready
 ```
-
-</div>
 
 ---
 
