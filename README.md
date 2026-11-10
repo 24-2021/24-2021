@@ -25,43 +25,15 @@
 
 <div align="center">
 
-```text
-┌──( 24㉿redteam )-[ ~/whoami ]
-└─$ cat profile.json
+```yaml
+Identity : 24 @ 24team
+Mission  : Offensive Security & Vulnerability Research
+Arsenal  :
+  Operations     : [Red Team Assessment, Intranet Penetration, Physical Near-Source, Social Engineering]
+  Weaponization  : [Shellcode Evasion, Custom Exploit / POC, Offensive Tooling]
+  Frontier       : [AI Security & LLM Audit, Sec Vibe Coding / Autonomous Agent Dev]
+Motto    : "Offense informs defense; silence breeds precision."
 ```
-
-```json
-{
-  "operator": "24",
-  "affiliation": "24team",
-  "current_focus": "Code Audit & Offensive Security",
-  "arsenal": {
-    "operations": [
-      "Red Team Engagement",
-      "Intranet Penetration",
-      "Physical / Near-Source Assessment",
-      "Adversary Emulation & Social Engineering"
-    ],
-    "weaponization": [
-      "Shellcode Evasion & Immunity",
-      "Custom Exploit / POC Development",
-      "Offensive Tooling Engineering"
-    ],
-    "frontier": [
-      "AI Security & LLM Vulnerability",
-      "Sec Vibe Coding / AI Agent Engineering"
-    ]
-  },
-  "motto": "Offense informs defense; silence breeds precision."
-}
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Auditing%20Code-D32F2F?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Red%20Teamer-1d3557?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-Zero%20Noise-2E7D32?style=flat-square&logo=ghost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mindset-Offensive-E65100?style=flat-square&logo=target&logoColor=white" />
-</p>
 
 </div>
 
